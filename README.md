@@ -1,10 +1,15 @@
 # 💫 About Me: LumiFlora
 🔭 I’m currently working on: **IT security assessments, STRIDE threat modeling, and relational database schemas.**
+
 👯 I’m looking to collaborate on: **Cybersecurity analysis, secure software design, and server-side management.**
-🤝 I’m looking for help with: **Advanced cryptography implementations and network security testing.**
-🌱 I’m currently learning: **Conversational Mandarin Chinese and advanced cryptography.**
-💬 Ask me about: **Computer system security, Ubuntu Linux environments, XAMPP, or Rainmeter desktop customization.**
-⚡ Fun fact: **I build highly customized Windows desktop interfaces using Rainmeter and meticulously tune my laptop's cooling profiles for silent library gaming.**
+
+🤝 I’m looking for help with: **Expanding my technical perspective and enhancing my skills in cybersecurity and software design.**
+
+🌱 I’m currently learning: **Vulnerability Analysis, mobile and ubiquitous computing, ethic and professionalism in computing and secure software development.**
+
+💬 Ask me about: **Computer system security, Ubuntu Linux environments, XAMPP, Games emulation, troubleshooting or Rainmeter desktop customization.**
+
+⚡ Fun fact: **I build highly customized Windows desktop interfaces using Rainmeter and I love to emulate old games in emulator.**
 
 # 💻 Tech Stack:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
